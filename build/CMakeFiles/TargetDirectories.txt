@@ -1,0 +1,5 @@
+/home/federico/Projects/baglib/build/CMakeFiles/edit_cache.dir
+/home/federico/Projects/baglib/build/CMakeFiles/rebuild_cache.dir
+/home/federico/Projects/baglib/build/src/CMakeFiles/baglib.dir
+/home/federico/Projects/baglib/build/src/CMakeFiles/edit_cache.dir
+/home/federico/Projects/baglib/build/src/CMakeFiles/rebuild_cache.dir

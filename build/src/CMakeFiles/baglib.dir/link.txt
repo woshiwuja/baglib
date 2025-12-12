@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/baglib.dir/main.cpp.o -o baglib  -lglfw -lglm -lvulkan
